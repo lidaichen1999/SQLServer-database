@@ -11,7 +11,7 @@ import cn.linyer.entity.Supplier;
 import cn.linyer.util.BaseDao;
 
 /**
- * @author Linyer(韩啸翔)
+ * @author Linyer(ldc)
  * 供应商数据库操作
  */
 public class SupplierDao extends BaseDao {
