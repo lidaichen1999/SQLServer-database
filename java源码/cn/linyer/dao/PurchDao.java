@@ -12,7 +12,7 @@ import cn.linyer.entity.Warehouse;
 import cn.linyer.util.BaseDao;
 
 /**
- * @author Linyer(韩啸翔)
+ * @author Linyer(ldc)
  * 入库数据库操作
  */
 public class PurchDao extends BaseDao {
