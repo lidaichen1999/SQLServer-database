@@ -12,7 +12,7 @@ import cn.linyer.entity.Warehouse;
 import cn.linyer.util.BaseDao;
 
 /**
- * @author Linyer(韩啸翔)
+ * @author Linyer(ldc)
  * 订单管理操作数据库
  */
 public class OrderOkDao extends BaseDao {
