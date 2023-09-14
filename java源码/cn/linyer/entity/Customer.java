@@ -1,7 +1,7 @@
 package cn.linyer.entity;
 
 /**
- * @author Linyer(韩啸翔)
+ * @author Linyer(ldc)
  * 客户信息
  */
 public class Customer {
