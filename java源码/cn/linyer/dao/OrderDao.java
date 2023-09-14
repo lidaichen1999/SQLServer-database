@@ -13,7 +13,7 @@ import cn.linyer.entity.SeeOrder;
 import cn.linyer.util.BaseDao;
 
 /**
- * @author Linyer(韩啸翔)
+ * @author Linyer(ldc)
  * 客户操作
  */
 public class OrderDao extends BaseDao {
