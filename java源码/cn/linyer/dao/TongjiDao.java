@@ -11,7 +11,7 @@ import cn.linyer.entity.Order;
 import cn.linyer.util.BaseDao;
 
 /**
- * @author Linyer(韩啸翔)
+ * @author Linyer(ldc)
  * 统计数据库操作
  */
 public class TongjiDao extends BaseDao {
