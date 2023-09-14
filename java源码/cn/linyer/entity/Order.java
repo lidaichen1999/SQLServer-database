@@ -1,7 +1,6 @@
 package cn.linyer.entity;
 
 /**
- * @author Linyer(韩啸翔)
  * 订单信息
  */
 public class Order {
