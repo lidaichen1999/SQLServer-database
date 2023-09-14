@@ -11,7 +11,7 @@ import cn.linyer.entity.Drug;
 import cn.linyer.util.BaseDao;
 
 /**
- * @author Linyer(韩啸翔)
+ * @author Linyer(ldc)
  * 药品信息
  */
 public class DrugDao extends BaseDao {
