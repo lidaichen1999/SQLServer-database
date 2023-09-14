@@ -12,7 +12,7 @@ import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 /**
- * @author Linyer(韩啸翔)
+ * @author Linyer(ldc)
  * 用户类型选择界面
  */
 public class SelectUserGui {
