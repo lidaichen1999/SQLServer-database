@@ -8,7 +8,7 @@ import cn.linyer.entity.Employer;
 import cn.linyer.entity.Customer;
 import cn.linyer.util.BaseDao;
 /**
- * @author Linyer(韩啸翔)
+ * @author Linyer(ldc)
  * 管理员数据库操作
  */
 public class LoginDao extends BaseDao {
