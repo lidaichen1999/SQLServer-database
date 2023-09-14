@@ -11,7 +11,7 @@ import cn.linyer.entity.Customer;
 import cn.linyer.util.BaseDao;
 
 /**
- * @author Linyer(韩啸翔)
+ * @author Linyer(ldc)
  * 客户信息数据库操作
  */
 public class CustomerDao extends BaseDao {
