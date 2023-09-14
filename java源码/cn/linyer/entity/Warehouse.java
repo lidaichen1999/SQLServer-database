@@ -1,7 +1,6 @@
 package cn.linyer.entity;
 
 /**
- * @author Linyer(韩啸翔)
  * 仓库
  */
 public class Warehouse {
