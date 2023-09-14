@@ -11,7 +11,7 @@ import cn.linyer.entity.Employer;
 import cn.linyer.util.BaseDao;
 
 /**
- * @author Linyer(韩啸翔)
+ * @author Linyer(ldc)
  * 员工信息操作
  */
 public class EmployerDao extends BaseDao {
