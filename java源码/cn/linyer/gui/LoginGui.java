@@ -23,7 +23,7 @@ import cn.linyer.gui.customerGui.CusRegGui;
 import cn.linyer.gui.customerGui.CustomerGui;
 
 /**
- * @author Linyer(韩啸翔)
+ * @author Linyer(ldc)
  * 登录界面
  */
 public class LoginGui {
